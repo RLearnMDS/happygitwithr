@@ -40,3 +40,4 @@ vignettes/*.pdf
 
 # ignorar archivo de prueba 
 archivo_prueba.R
+archivo_prueba_2.R
